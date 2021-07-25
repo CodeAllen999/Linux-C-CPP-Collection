@@ -1,5 +1,3 @@
-# Linux-C-CPP-Collection
-
 <p align="center" style="color:blue">
   <a href="https://allen5g.blog.csdn.net/article/details/84500880">
     <h2 align="center">
