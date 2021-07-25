@@ -12,8 +12,9 @@
 
 </p></p>
 
-十年饮冰，难凉热血
-### 联系我可以在公众号（CodeAllen）留言，或者直接微信(公众号私信“微信”)与我交流
+> 十年饮冰，难凉热血
+
+联系我可以在公众号（CodeAllen）留言，或者直接微信(公众号私信“微信”)与我交流
 
 <p align="center">
     <a href="https://mp.weixin.qq.com/s/d6L3zmwGIor7QmuGoJHeNQ" target="_blank">
